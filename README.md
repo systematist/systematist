@@ -1,5 +1,5 @@
 # Halo..." 👋
-Adventurous field biologist and taxonomist with a passion for studying avian diversity in tropical mountain habitats. 
+Adventurous field biologist and taxonomist. 
 <!--
 **systematist/systematist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
